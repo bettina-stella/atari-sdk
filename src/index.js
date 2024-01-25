@@ -1,3 +1,3 @@
-import Atari from 'Atari'
+import Atari from './Atari'
 
 export default Atari
