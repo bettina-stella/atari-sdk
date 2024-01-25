@@ -1,0 +1,14 @@
+{
+  "name": "stella-atari-client-sdk",
+  "version": "1.0.0",
+  "description": "SDK for easy implementation of Stella's Atari",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moises <moisesmosele@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@geckos.io/client": "^3.0.0"
+  }
+}
