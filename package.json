@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@geckos.io/client": "^3.0.0",
+    "@mowses/events": "github:mowses/Events",
     "@mowses/observercore": "github:mowses/ObserverCore"
   }
 }
